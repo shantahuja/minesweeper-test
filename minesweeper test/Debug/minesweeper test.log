@@ -1,0 +1,43 @@
+﻿  minesweeper test.cpp
+c:\users\owner\source\repos\minesweeper test\minesweeper test\board.h(60): warning C4101: 'temp': unreferenced local variable
+c:\users\owner\source\repos\minesweeper test\minesweeper test\board.h(113): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(152): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(252): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(352): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(413): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(422): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(424): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(84): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(184): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(284): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\owner\source\repos\minesweeper test\minesweeper test\minesweeper.h(384): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\owner\source\repos\minesweeper test\minesweeper test\array.h(80): warning C4018: '<': signed/unsigned mismatch
+  c:\users\owner\source\repos\minesweeper test\minesweeper test\array.h(72): note: while compiling class template member function 'Array<T> &Array<T>::operator =(const Array<T> &)'
+          with
+          [
+              T=Cell
+          ]
+  c:\users\owner\source\repos\minesweeper test\minesweeper test\array2d.h(73): note: see reference to function template instantiation 'Array<T> &Array<T>::operator =(const Array<T> &)' being compiled
+          with
+          [
+              T=Cell
+          ]
+  c:\users\owner\source\repos\minesweeper test\minesweeper test\array2d.h(69): note: while compiling class template member function 'Array2D<Cell>::Array2D(const Array2D<Cell> &)'
+  c:\users\owner\source\repos\minesweeper test\minesweeper test\board.h(152): note: see reference to function template instantiation 'Array2D<Cell>::Array2D(const Array2D<Cell> &)' being compiled
+  c:\users\owner\source\repos\minesweeper test\minesweeper test\board.h(20): note: see reference to class template instantiation 'Array2D<Cell>' being compiled
+c:\users\owner\source\repos\minesweeper test\minesweeper test\cell.h(70): warning C4715: 'Cell::getSymbol': not all control paths return a value
+c:\users\owner\source\repos\minesweeper test\minesweeper test\array.h(104): warning C4715: 'Array<Cell>::operator[]': not all control paths return a value
+c:\users\owner\source\repos\minesweeper test\minesweeper test\array2d.h(195): warning C4715: 'Array2D<Cell>::Select': not all control paths return a value
+c:\users\owner\source\repos\minesweeper test\minesweeper test\array.h(118): warning C4715: 'Array<Cell>::operator[]': not all control paths return a value
+c:\users\owner\source\repos\minesweeper test\minesweeper test\board.h(180): warning C4715: 'Board::getAdjacent': not all control paths return a value
+  minesweeper test.vcxproj -> C:\Users\Owner\source\repos\minesweeper test\Debug\minesweeper test.exe

@@ -1,0 +1,70 @@
+﻿  minesweeper test.cpp
+c:\users\shant\desktop\minesweeper test\minesweeper test\cell.h(50): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\board.h(60): warning C4101: 'temp': unreferenced local variable
+c:\users\shant\desktop\minesweeper test\minesweeper test\board.h(113): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(153): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(185): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(187): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(189): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(191): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(194): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(206): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(214): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(253): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(285): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(287): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(289): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(291): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(294): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(306): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(314): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(353): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(385): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(387): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(389): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(391): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(394): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(406): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(414): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(85): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(185): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(285): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\shant\desktop\minesweeper test\minesweeper test\minesweeper.h(385): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\shant\desktop\minesweeper test\minesweeper test\array.h(43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\shant\desktop\minesweeper test\minesweeper test\array.h(36): note: while compiling class template member function 'Array<T>::Array(size_t,int)'
+          with
+          [
+              T=Cell
+          ]
+  c:\users\shant\desktop\minesweeper test\minesweeper test\array2d.h(140): note: see reference to function template instantiation 'Array<T>::Array(size_t,int)' being compiled
+          with
+          [
+              T=Cell
+          ]
+  c:\users\shant\desktop\minesweeper test\minesweeper test\array2d.h(69): note: while compiling class template member function 'Array2D<Cell>::Array2D(const Array2D<Cell> &)'
+  c:\users\shant\desktop\minesweeper test\minesweeper test\board.h(152): note: see reference to function template instantiation 'Array2D<Cell>::Array2D(const Array2D<Cell> &)' being compiled
+  c:\users\shant\desktop\minesweeper test\minesweeper test\board.h(20): note: see reference to class template instantiation 'Array2D<Cell>' being compiled
+c:\users\shant\desktop\minesweeper test\minesweeper test\array.h(78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\shant\desktop\minesweeper test\minesweeper test\array.h(72): note: while compiling class template member function 'Array<T> &Array<T>::operator =(const Array<T> &)'
+          with
+          [
+              T=Cell
+          ]
+  c:\users\shant\desktop\minesweeper test\minesweeper test\array2d.h(73): note: see reference to function template instantiation 'Array<T> &Array<T>::operator =(const Array<T> &)' being compiled
+          with
+          [
+              T=Cell
+          ]
+c:\users\shant\desktop\minesweeper test\minesweeper test\array.h(104): warning C4715: 'Array<Cell>::operator[]': not all control paths return a value
+c:\users\shant\desktop\minesweeper test\minesweeper test\cell.h(70): warning C4715: 'Cell::getSymbol': not all control paths return a value
+c:\users\shant\desktop\minesweeper test\minesweeper test\board.h(180): warning C4715: 'Board::getAdjacent': not all control paths return a value
+c:\users\shant\desktop\minesweeper test\minesweeper test\array.h(118): warning C4715: 'Array<Cell>::operator[]': not all control paths return a value
+  minesweeper test.vcxproj -> C:\Users\shant\Desktop\minesweeper test\x64\Debug\minesweeper test.exe
